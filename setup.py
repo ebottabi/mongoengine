@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-DESCRIPTION = "A Python Document-Object Mapper for working with MongoDB"
+DESCRIPTION = "A Python Document-Object Mapper for working with MongoDB modified by Alisson Patricio (eu@alisson.net)"
 
 LONG_DESCRIPTION = None
 try:
